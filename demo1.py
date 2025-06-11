@@ -20,3 +20,6 @@ num2 = 200
 #In Python, a single compelte instruction is called a 'statement'
 #two or more statements make up what we call a "code"
 #A statement that evaluates a value is called an "expression" eg line2 evaluates to 260
+#Python stops executing where it finds an error and ignores the preceding lines of instructions
+#Python is an interpreted language, so it uinterprets all lines of code until it finds an error
+#Some other languages will not run at all when they see an error, and they are called compiled langauges e.g. C, C++, Java
