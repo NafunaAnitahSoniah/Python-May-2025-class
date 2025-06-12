@@ -92,7 +92,7 @@ print(not False)
 #1. Identity operators
 #2. Membership operators
 
-#Idebtity Operators
+#Identity Operators
 # 'is' and 'is not'
 x = 5
 y = 5

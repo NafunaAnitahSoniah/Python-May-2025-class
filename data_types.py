@@ -103,3 +103,8 @@ print(fruits) #each time you print, the order of the values will change and no d
 
 #read about python boolean data type
 #what is the difference between null and empty 
+
+#BOOLEAN data type
+# One of the value, 'True' or 'False'
+# Case sensitive, must be written with a capital 'T' for True and capital 'F' for False
+#Boolean values are the result of a comparison statement whose logic either emits 'True' or 'False'
