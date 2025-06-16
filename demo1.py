@@ -23,3 +23,11 @@ num2 = 200
 #Python stops executing where it finds an error and ignores the preceding lines of instructions
 #Python is an interpreted language, so it uinterprets all lines of code until it finds an error
 #Some other languages will not run at all when they see an error, and they are called compiled langauges e.g. C, C++, Java
+
+#to comment a block of code, use multi-line comment symbols
+"""
+num1,num2 = 60,200
+ans = num1 + num2
+print(ans)
+
+"""
