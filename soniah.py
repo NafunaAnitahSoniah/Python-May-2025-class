@@ -6,6 +6,8 @@
 
 #Variable: 
 #This is like a storage container that holds data or values such as numbers, texts which can be manipulated within a program.
+#Its a named unit of memeory 
+# Its given by a software engineer to values when writing a program
 age = 18 #in this example, 'age' is the variable that stores the number 18.
 
 #Partitioning
@@ -14,6 +16,7 @@ age = 18 #in this example, 'age' is the variable that stores the number 18.
 
 #Memory address:
 #This is a location where a value is stored inside the computer memory. 
+#Its a unique numerical identifier created by the computer operating system. The OS is responsible for partitioning your memory and naming the partitions
 #The computer assigns a unique address to each value it stores so that it can access it easily.(like a house address)
 
 #Assignment:

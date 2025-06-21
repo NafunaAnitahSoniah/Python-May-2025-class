@@ -75,7 +75,8 @@ print(all_languages)
 #TUPLE ()
 #Tuples are identified by parentheses (We use oval brackets)
 cars = ("benz", "mazda", "subaru", "Vitz", "probox", "allex")
-# print(cars[-1]) #a tuple is immutable, this line would indeed give an error
+print("------")
+print(cars[-1]) #a tuple is immutable, this line would indeed give an error
 #but if one of the elements in the tuple is a list, we can manipulate only the values, in the list.
 cars = ("benz", "mazda", "subaru", "Vitz", "probox", "allex", ["Cadillac", "limousine", "bughatti"])
 
