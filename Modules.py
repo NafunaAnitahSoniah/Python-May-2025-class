@@ -1,3 +1,10 @@
+"""
+Functions grow bigger and bigger
+Its important to seperate code into different files called modules basing on their functionality; makes it easy to read.
+Its easier to read shorter lines of code
+ A module is a logical seperation of functions into files according to their functionality
+"""
+#
 # After creating functions, it is important to seperate the code based on their functionality to avoid long code.
 # Modules are python files that have reusable code or functions. 
 # A python Script/file is a module
