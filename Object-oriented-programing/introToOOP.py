@@ -61,3 +61,7 @@ Person2.occupation = "Nurse"
 print(Person2.name)
 
 #remember to ask if each object in the class can have seperate methods/ functions
+#objects take on all the attributes of the class they belong to
+
+
+

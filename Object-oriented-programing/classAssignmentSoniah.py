@@ -1,4 +1,4 @@
-#Create atleast 5 classes with atleast 2 methods and 5 objects for each class
+ #Create atleast 5 classes with atleast 2 methods and 5 objects for each class
 
 
 #Class 1
@@ -90,7 +90,7 @@ phone5.simcards = "Single-sim"
 
 # Class 3
  
-class Dog_breeds:
+class Dog_breed:
     name = "Chihuahua"
     origin = "Mexico"
     color = ["White", "Fawn", "Black", "Chocolate", "Cream"]
@@ -101,28 +101,28 @@ class Dog_breeds:
     def Common_use():
         return("This dog is usually used as a companion and can be trained.")
 
-breed2 = Dog_breeds()
+breed2 = Dog_breed()
 breed2.name = "GermanShepherd"
 breed2.origin = "Germany"
 breed2.color = ["Black and Tan", "Sable", "Black"]
 breed2.size = "large"
 breed2.lifespan = "9-13 years"
 
-breed3 = Dog_breeds()
+breed3 = Dog_breed()
 breed3.name = "Labrador Retriever"
 breed3.origin = "Canada"
 breed3.color = ["Black", "Yellow", "Chocolate"]
 breed3.size = "medium to large"
 breed3.lifespan = "10-12 years"
 
-breed4 = Dog_breeds()
+breed4 = Dog_breed()
 breed4.name = "Dachshund"
 breed4.origin = "Germany"
 breed4.color = ["Red","Black and Tan", "Chocolate", "Black", "Dapple"]
 breed4.size = "small"
 breed4.lifespan = "12-16 years"
 
-breed5 = Dog_breeds()
+breed5 = Dog_breed()
 breed5.name = "Siberian Husky"
 breed5.origin = "Siberia"
 breed5.color = ["Black and White","Red and White"]
@@ -172,7 +172,7 @@ SClass.top_speed = "209-250 km/hr"
 SClass.size = "Full-size Sedan"
 
 # Class 5
-class Shoe_brands:
+class Shoe_brand:
     name = "Nike"
     origin = "USA"
     style = "Athletic"
@@ -183,7 +183,7 @@ class Shoe_brands:
     def Durability():
         return("They are long lasting")
 
-brand2 = Shoe_brands()
+brand2 = Shoe_brand()
 brand2.name = "Clarks"
 brand2.origin = "UK"
 brand2.style = "official and casual"
@@ -191,7 +191,7 @@ brand2.price_range = "$80-$200"
 brand2.target_market = "Professionals"
 
 
-brand3 = Shoe_brands()
+brand3 = Shoe_brand()
 brand3.name = "Adidas"
 brand3.origin = "Germany"
 brand3.style = "Athletic"
@@ -199,7 +199,7 @@ brand3.price_range = "$60-$300"
 brand3.target_market = "Athletes"
 
 
-brand4 = Shoe_brands()
+brand4 = Shoe_brand()
 brand4.name = "New Balance"
 brand4.origin = "USA"
 brand4.style = "Athletic"
@@ -207,9 +207,9 @@ brand4.price_range = "$70-$250"
 brand4.target_market = "Athletes"
 
 
-brand5 = Shoe_brands()
+brand5 = Shoe_brand()
 brand5.name = "Dr. Martens"
 brand5.origin = "UK"
 brand5.style = "Boots"
 brand5.price_range = "$100-$250"
-brand5.target_market = "Workers"
+brand5.target_market = "Heavy duty workers"
