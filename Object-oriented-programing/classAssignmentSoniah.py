@@ -10,9 +10,9 @@ class City:
     language = "English"
     costOfLiving = "$280" 
     airport = "Entebbe International Airport"
-    def Organisation():
+    def organisation():
         return("This is a very disorganised city")
-    def Hospitality():
+    def hospitality():
         return("This city has very welcoming people")
 
 city2 = City()
@@ -55,9 +55,9 @@ class Phone:
     price = "$650"
     capacity = "128GB"
     simcards = "Single-sim" 
-    def Battery():
+    def battery():
         return("This phone has poor battery")
-    def Camera():
+    def camera():
         return("This phone has high quality cameras")
     
 phone2 = Phone()
@@ -96,9 +96,9 @@ class Dog_breed:
     color = ["White", "Fawn", "Black", "Chocolate", "Cream"]
     size = "very small"
     lifespan = "12-20 years"
-    def Temperament():
+    def temperament():
         return("This dog is lively, alert and bold")
-    def Common_use():
+    def common_use():
         return("This dog is usually used as a companion and can be trained.")
 
 breed2 = Dog_breed()
@@ -137,9 +137,9 @@ class Mercedes_benz:
     horsepower = "255hp"
     top_speed = "209 km/hr"
     size = "compact"
-    def Functionality():
+    def functionality():
         return("This is a very luxurious car")
-    def Appearance():
+    def appearance():
         return("This is a very beautiful car")
 
 Gle = Mercedes_benz()
@@ -178,9 +178,9 @@ class Shoe_brand:
     style = "Athletic"
     price_range = "$60-$250"
     target_market = "Athletes"
-    def Comfort():
+    def comfort():
         return("This is a very comfortable shoe")
-    def Durability():
+    def durability():
         return("They are long lasting")
 
 brand2 = Shoe_brand()

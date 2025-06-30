@@ -8,6 +8,8 @@
                                                      #delete (used to remove a values from a list)
                                                      #forward etc
                                                      #int
+                                                     # sqrt() computes square root
+                                                     # pow() computers the power .....input two parameters and argumnts
 
 #A function is called by the function name followed by parentheses e.g. int()
 

@@ -12,13 +12,13 @@ class Animal:
         self.owner = owner
         self.skin_texture = skin_texture
         self.size = size
-    def Sound(self, sound):
+    def sound(self, sound):
         #return(self.name, "makes sharp scary ", sound)
         # "f" stands for format
         return f"{self.name} makes sharp scary {sound}"
 
 animal1 = Animal("dog", "black", "Soniah", "Hairy", "medium") 
-print(animal1.Sound("hoof-hoof"))
+print(animal1.sound("hoof-hoof"))
 
 
 class Person:
